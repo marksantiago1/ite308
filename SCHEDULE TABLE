@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+<body>
+<style>
+    th{
+        background-color: gray;
+    }
+</style>
+<table border="1" style="width: 100%; border-collapse: collapse; border-style: solid;">
+    <tr>
+        <th>Course Code</th>
+        <th>Subject Title</th>
+        <th>Section</th>
+        <th>Day</th>
+        <th>Start time</th>
+        <th>End time</th>
+        <th>Room</th>
+    </tr>
+    <tr>
+        <td style="background-color: red;">ITE 233
+        </td>
+        <td style="background-color: green;">Elective 2 (WEB) - Adv. Web Development
+        </td>
+        <td style="background-color: pink;">AU-FA1-IT3-SOUTH1
+        </td>
+        <td style="background-color: blue;">WED
+        </td>
+        <td style="background-color: orange;">3:30 PM
+        </td>
+        <td style="background-color: violet;">4:30 PM
+        </td>
+        <td style="background-color: indigo;">Room 401
+        </td>
+    </tr>
+
+    <tr>
+        <td style="background-color: red;">ITE 233
+        </td>
+        <td style="background-color: green;">Elective 2 (WEB) - Adv. Web Development
+        </td>
+        <td style="background-color: pink;">AU-FA1-IT3-SOUTH2
+        </td>
+        <td style="background-color: blue;">WED
+        </td>
+        <td style="background-color: orange;">7:00 AM
+        </td>
+        <td style="background-color: violet;">8:00 AM
+        </td>
+        <td style="background-color: indigo;">Room 402
+        </td>
+    </tr>
+
+    <tr>
+        <td style="background-color: red;">ITE 308
+        </td>
+        <td style="background-color: green;">Web System and Technologies
+        </td>
+        <td style="background-color: pink;">AU-FA1-IT3-SOUTH1
+        </td>
+        <td style="background-color: blue;">WED
+        </td>
+        <td style="background-color: orange;">2:30 PM
+        </td>
+        <td style="background-color: violet;">3:30 PM
+        </td>
+        <td style="background-color: indigo;">Room 401
+        </td>
+    </tr>
+
+    
+    <tr>
+        <td style="background-color: red;">ITE 308
+        </td>
+        <td style="background-color: green;">Web System and Technologies
+        </td>
+        <td style="background-color: pink;">AU-FA1-IT3-SOUTH2
+        </td>
+        <td style="background-color: blue;">WED
+        </td>
+        <td style="background-color: orange;">8:00 AM
+        </td>
+        <td style="background-color: violet;">9:00 AM
+        </td>
+        <td style="background-color: indigo;">Room 402
+        </td>
+    </tr>
+
+    <tr>
+        <td style="background-color: red;">ITE 308
+        </td>
+        <td style="background-color: green;">Web System and Technologies
+        </td>
+        <td style="background-color: pink;">AU-FA1-IT3-SOUTH3
+        </td>
+        <td style="background-color: blue;">THU
+        </td>
+        <td style="background-color: orange;">7:00 AM
+        </td>
+        <td style="background-color: violet;">8:00 AM
+        </td>
+        <td style="background-color: indigo;">Room 405
+        </td>
+    </tr>
+
+    <tr>
+        <td style="background-color: red;">SSP 007
+        </td>
+        <td style="background-color: green;">Student Success Program 3
+        </td>
+        <td style="background-color: pink;">AU-FA1-IT3-SOUTH3
+        </td>
+        <td style="background-color: blue;">THU
+        </td>
+        <td style="background-color: orange;">11:00 AM
+        </td>
+        <td style="background-color: violet;">12:00 PM
+        </td>
+        <td style="background-color: indigo;">Room 401
+        </td>
+    </tr>
+
+</table>
+
+<ul style="list-style-type: square;">
+    <li>Dial Up</li>
+    <li>DSL</li>
+    <li>Wireless</li>
+    <li>Cable</li>
+</ul>
+
+<ol start="31">
+    <li>Venbar</li>
+    <li>Arjhey</li>
+    <li>Lanz</li>
+    <li>Mike</li>
+    <li>Amiel</li>
+
+</ol>
+</html>
